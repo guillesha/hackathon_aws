@@ -1,0 +1,19 @@
+bedrock-agentcore
+# Agentic SaaS Workshop Requirements
+
+# Phase 1 requirements
+strands-agents
+strands-agents-tools
+bedrock-agentcore-starter-toolkit
+boto3
+botocore
+python-dotenv
+pyyaml
+pyjwt
+boto3-stubs[bedrock-agent-runtime]
+
+# Testing
+requests
+
+# Development
+ipython
